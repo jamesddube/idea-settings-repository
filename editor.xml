@@ -17,6 +17,10 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
